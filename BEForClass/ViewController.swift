@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var phoneTextField     :UITextField!
     @IBOutlet weak var emailTextField     :UITextField!
     @IBOutlet weak var entryButton        :UIBarButtonItem!
+
     
     //MARK: - Data Methods
     
